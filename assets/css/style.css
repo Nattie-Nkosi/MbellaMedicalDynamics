@@ -121,6 +121,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   padding: 10px 0;
   line-height: 1;
   font-weight: 400;
+  font-size: 1.5rem;
   letter-spacing: 3px;
   text-transform: uppercase;
 }
